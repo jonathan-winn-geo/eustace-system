@@ -1,10 +1,8 @@
 # EU Surface Temperature for All Corners of Earth
 
-
 [![Repo Size](https://img.shields.io/github/repo-size/eustace-data/eustace-system.svg)](https://github.com/repo-size/eustace-data/eustace-system) 
 
 [![Code Size](https://img.shields.io/github/languages/code-size/eustace-data/eustace-system.svg)](https://github.com/languages/code-size/eustace-data/eustace-system)
-
 
 **Horizon 2020**
 **H2020-EO-2014 New ideas for Earth-relevant Space Applications**
